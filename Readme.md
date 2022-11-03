@@ -1,1 +1,1 @@
-Ola, esse é um projeto simples que fiz com para compreensao dos conceitos basicos de Typescrispt.
+Ola, esse é um projeto simples que fiz  para compreensao dos conceitos basicos de Typescrispt.
